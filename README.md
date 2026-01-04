@@ -14,7 +14,7 @@ Foot-ground collisions in legged locomotion cause significant energy loss. While
 
 ## Demo
 
-[Demo video/gif will be added here]
+Experimental results demonstrate the energy-recycling rimless wheel walking down a 1° slope with improved efficiency. The lockable clutch mechanism successfully stores and reinjects energy, achieving a Cost of Transport (CoT) of 0.02.
 
 ## Research
 
