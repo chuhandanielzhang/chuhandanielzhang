@@ -19,17 +19,17 @@ Experimental demonstrations of the energy-recycling mechanism:
 ### With Clutch
 Energy-recycling rimless wheel with lockable clutch mechanism
 
-![With Clutch](clutch/movie/movie.gif)
+<img src="clutch/movie/movie.gif" width="600" alt="With Clutch">
 
 ### Without Clutch
 Baseline configuration without clutch
 
-![Without Clutch](no%20clutch/movie/movie.gif)
+<img src="no clutch/movie/movie.gif" width="600" alt="Without Clutch">
 
 ### Energy Comparison
 Side-by-side energy comparison between the two models
 
-![Energy Comparison](two%20models/movie/CompareEnergyAnimation.gif)
+<img src="two models/movie/CompareEnergyAnimation.gif" width="600" alt="Energy Comparison">
 
 The clutch mechanism successfully stores and reinjects energy, achieving a Cost of Transport (CoT) of 0.02 on a 1° slope.
 
