@@ -1,32 +1,26 @@
-# Chuhan Zhang
+# Legged_Robot_Clutch&Spring
 
-Robotics researcher working on embodied intelligence for legged robot locomotion. Currently applying for graduate programs in Robotics starting Fall 2026.
+Energy-recycling mechanism for legged locomotion using lockable clutch to improve walking efficiency.
+
+## Overview
+
+Foot-ground collisions in legged locomotion cause significant energy loss. While spring-like compliant mechanisms can reduce dissipation, their passive timing often mismatches the gait cycle, undermining both efficiency and stability. This work proposes an energy-recycling rimless wheel that uses a lockable clutch to store energy at foot contact and reinject it in the next gait cycle.
+
+## Key Results
+
+- **Energy reduction**: Up to 16.13% compared to viscoelastic-legged configuration
+- **Stability**: Strong and consistent stability across a range of slope angles
+- **Experimental validation**: Achieved Cost of Transport (CoT) of 0.02 on 1° slope
+
+## Demo
+
+[Demo video/gif will be added here]
 
 ## Research
 
-My research focuses on dynamic modeling, control systems, and learning-based approaches for energy-efficient legged locomotion. Current projects include:
+**Status**: ICRA 2026, Under Review
 
-- **Energy-Recycling Bipedal Walker** (ICRA 2026, Under Review) - Designed spring-clutch mechanism achieving 60% reduction in transport cost
-- **Aero-OMEGA Hopping Robot** (BioRob/IROS 2026, In Preparation) - Hierarchical control and reinforcement learning for robust terrain adaptation
-
-## Education
-
-**B.Sc. in Mechanical Engineering and Robotics**  
-Technion - Israel Institute of Technology (China)  
-Expected Graduation: October 2026  
-Core GPA: 90.4/100.0
-
-## Achievements
-
-- VEX Robotics World Champion (Middle School, Louisville, USA, 2016)
-- Gold Award, 13th VEX Asia-Pacific Championship (High School, Seoul, 2019)
-- Top 8 Finish, China RoboMaster University League (2025)
-- GTIIT Dean's List Academic Scholarship (Top 15%)
-
-## Publications
-
-**Under Review**:  
-Lin, T., Zheng, Y., Chen, R., Zhang, C., Or, Y., Liu, M.*, "Improving Locomotion Energy Efficiency of Legged Robot by Energy Recycling", ICRA 2026
+**Authors**: Tongchen Lin, Yanqiu Zheng, Ruigang Chen, Chuhan Zhang, Yizhar Or, Mingyi Liu*
 
 ## Contact
 
